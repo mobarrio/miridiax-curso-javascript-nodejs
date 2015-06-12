@@ -1,0 +1,149 @@
+Modulo 0. Introducción al curso, al programa y al Sistema Operativo UNIX
+Tema 0: Transparencias del módulo		
+Tema 1. Introducción al curso y al programa.		
+Tema 2. Introducción y entrada al sistema UNIX		
+Tema 2. Cuestionario obligatorio	17 ago 23:59	
+Tema 3. El Sistema Operativo Unix. El sistema de archivos I		
+Tema 3. Cuestionario opcional		
+Tema 4. El Sistema Operativo Unix. El sistema de archivos II		
+Tema 4. Cuestionario opcional		
+Tema 5. El Sistema Operativo Unix. El sistema de archivos III		
+Tema 5. Cuestionario opcional		
+Tema 6. Sesión práctica sobre el sistema de archivos Unix		
+Tema 7. El Sistema Operativo Unix. La interfaz de usuario I		
+Tema 7. Cuestionario opcional		
+Tema 8. El Sistema Operativo Unix. La interfaz de usuario II		
+Tema 8. Cuestionario opcional		
+Tema 9. El Sistema Operativo Unix. La interfaz de usuario III		
+Tema 9. Cuestionario opcional		
+Tema 10. Sesión práctica sobre la interfaz de usuario I		
+Tema 11. Sesión práctica sobre la interfaz de usuario II		
+
+Modulo 1. Introducción a JavaScript de servidor y a node.js. Sentencias, Variables, Booleanos, Números, Strings y Funciones
+Tema 0: Transparencias del módulo		
+Tema 1. Introducción a Javascript. Tipos y valores		
+Tema 1. Cuestionario opcional		
+Tema 2. Programa, sentencia, variable y comentario		
+Tema 2. Cuestionario opcional		
+Tema 3. Expresiones con variables		
+Tema 3. Cuestionario opcional		
+Tema 4. Introducción node.js		
+Tema 5. Booleano, igualdad y otros operadores lógicos		
+Tema 5. Cuestionario opcional		
+Tema 6. Sentencia IF/ELSE		
+Tema 7. Números		
+Tema 7. Cuestionario obligatorio	17 ago 23:59	
+Tema 8. Strings e internacionalización (I18N)		
+Tema 8. Cuestionario opcional		
+Tema 9. Funciones		
+Tema 9. Cuestionario obligatorio	17 ago 23:59	
+Tema 10. Funciones como objetos y cierres		
+Tema 10. Cuestionario obligatorio	17 ago 23:59	
+Ejercicio P2P Opcional		
+
+Modulo 2. Introducción a JavaScript de servidor y a node.js. Bucles, Clases predefinidas, Objetos, Propiedades y Métodos; Prototipos y Clases; Arrays; JSON; Funciones como Objetos y Cierres (Closures)
+Tema 0: Transparencias del módulo		
+Tema 1. Bucles: sentencias while, for y do/while		
+Tema 2. Objetos, propiedades y métodos		
+Tema 2. Cuestionario obligatorio	17 ago 23:59	
+Tema 3. Sentencia for/in de JavaScript		
+Tema 4. Objetos: propiedades dinámicas y anidadas		
+Tema 4. Cuestionario obligatorio	17 ago 23:59	
+Tema 5. Referencias a objetos		
+Tema 5. Cuestionario obligatorio	17 ago 23:59	
+Tema 6. La Clase Array		
+Tema 6. Cuestionario opcional		
+Tema 7. JSON (JavaScript Object Notation)		
+Tema 7. Cuestionario opcional		
+Tema 8. Prototipos y clases JavaScript		
+Tema 8. Cuestionario obligatorio	17 ago 23:59	
+Tema 9. Espacios de nombres y cierres (closures)		
+Tema 10. Objetos como diccionarios: cierres o clases		
+Ejercicio P2P obligatorio	15 jun 23:59	17 ago 23:59
+
+Modulo 3. Modulos node.js; Expresiones Regulares; Eventos, Entorno de Ejecución y Concurrencia en node.js; Ficheros y Flujos
+Tema 0: Transparencias del módulo		
+Tema 1. Módulos node.js		
+Tema 2. Expresiones regulares I. Búsqueda de patrones		
+Tema 3. Expresiones regulares II. Repetición y alternativa		
+Tema 4. Expresiones regulares III. Subpatrones y sustituciones		
+Tema 4. Cuestionario obligatorio	17 ago 23:59	
+Tema 5. Eventos node.js		
+Tema 6. Entorno de ejecución de node.js		
+Tema 6. Cuestionario obligatorio	17 ago 23:59	
+Tema 7. Gestión de la concurrencia en node.js		
+Tema 8. Acceso a ficheros		
+Tema 9. Flujos (streams)		
+Ejercicio P2P opcional		
+
+Modulo 4. Introducción a HTTP y a los Servidores Web; Introducción a express y al Middleware Static; Introducción a REST; Aplicaciones express.js y Composición de Middlewares; Formularios GET y POST; Parámetros Ocultos
+Tema 0: Transparencias del módulo		
+Tema 1. introducción a HTTP		
+Tema 1. Cuestionario obligatorio	17 ago 23:59	
+Tema 2. Servidor Web		
+Tema 2. Cuestionario obligatorio	17 ago 23:59	
+Tema 3. Introducción a express.js y al middelware static		
+Tema 3. Cuestionario obligatorio	17 ago 23:59	
+Tema 4. Introducción a REST		
+Tema 4. Cuestionario obligatorio	17 ago 23:59	
+Tema 5. Aplicaciones REST con express.js		
+Tema 5. Cuestionario obligatorio	17 ago 23:59	
+Tema 6. Acceso a campos de la ruta		
+Tema 6. Cuestionario obligatorio	17 ago 23:59	
+Tema 7. Composición y ejecución de middlewares		
+Tema 8. Formulario GET		
+Tema 9. URL encode		
+Tema 10. Formulario POST		
+Tema 11. Parámetro oculto y method override		
+Ejercicio P2P Obligatorio	29 jun 23:59	17 ago 23:59
+
+Modulo 5. Gestión de versiones de proyectos con git y GITHUB; Proyecto, Espacio de Trabajo y Versiones (Commit); Arboles y Ramas de un proyecto; Repositorios Remoto y colaboración a través de GITHUB
+Tema 0: Transparencias del módulo		
+Tema 1. GIT. Proyecto, directorio y versión		
+Tema 2. GIT. Proyecto Quiz 2015 en GITHUB		
+Tema 3. GIT. GITHUB		
+Tema 4. GIT. Crear proyecto random con GITHUB		
+Tema 5. GIT. Crear proyecto random con comandos		
+Tema 6. GIT. Análisis y gestión del área de trabajo		
+Tema 7. GIT. Ramas		
+Tema 8. GIT. Unir ramas: Merge		
+Tema 9. GIT. Repositorios remotos		
+Ejercicio P2P Obligatorio	10 ago 23:59	17 ago 23:59
+
+Modulo 6. Proyecto Quiz I: Patrón Modelo-Vista-Controlador (MVC); generación del proyecto con express-generator; Primera Página y Primera Pregunta; Despliegue en la nube (Heroku)
+Tema 0: Transparencias del módulo		
+Tema 1. El proyecto Quiz y MVC		
+Tema 2. Esqueleto del proyecto con express-generator		
+Tema 3. Esqueleto del proyecto		
+Tema 4. Primera página y favicon		
+Tema 5. Primera pregunta		
+Tema 6. Marco de la aplicación		
+Tema 7. CSS adaptable a móviles		
+Tema 8. Despliegue en Heroku		
+Ejercicio P2P Obligatorio	13 jul 23:59	17 ago 23:59
+
+Modulo 7. Proyecto Quiz II: La Base de Datos (DB), Tablas, sequelize.js y SQLite; Despliegue en Heroku utilizando Postgres; Presentación de Listas de Quizes y Autoload
+Tema 0: Transparencias del módulo		
+Tema 1. La base de datos		
+Tema 2. Sequelize.js y SQLite		
+Tema 3. Despliegue DB en Heroku		
+Tema 4. Lista de preguntas		
+Tema 5. Autoload		
+Ejercicio P2P Obligatorio	10 ago 23:59	17 ago 23:59
+
+Modulo 8. Proyecto Quiz III: Gestión de Listas de Quizes, Creación, Edición y Borrado
+Tema 0: Transparencias del módulo		
+Tema 1. Crear Preguntas		
+Tema 2. Validación de entradas		
+Tema 3. Editar preguntas		
+Tema 4. Borrar preguntas		
+Ejercicio P2P Obligatorio	27 jul 23:59	17 ago 23:59
+
+Modulo 9. Proyecto Quiz IV: Creación y Moderación de Comentarios a Quizes; Relaciones entre Tablas de la Base de Datos; Sesiones, Autenticación y Autorización; HTTP Seguro (HTTPS)
+Tema 0: Transparencias del módulo		
+Tema 1. Crear comentario		
+Tema 2. Autenticación y sesión		
+Tema 3. Autorización		
+Tema 4. Moderación de comentarios		
+Tema 5. HTTPS - HTTP Seguro		
+Ejercicio P2P Obligatorio	10 ago 23:59	17 ago 23:59

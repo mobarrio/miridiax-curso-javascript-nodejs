@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Preguntas</title>
+</head>
+<body>
+	<h1>QUIZ</h1>
+	<form id="frmPreg1"  action="/preguntas" method="GET">
+		<div>¿Quién descubrió América?</div>
+		<div>
+			<input type="text" id="pregunta1" name="pregunta1" value="" placeholder="Respuesta!" />
+			<input type="hidden" id="pregunta" name="pregunta" value="pregunta1">
+			<input type="submit" value="Enviar">
+		</div> 
+	</form>
+	<br/>
+	<form id="frmPreg2" action="/respuesta" method="GET">
+		<div>¿Capital de Portugal?</div>
+		<div>
+			<input type="text" id="pregunta2" name="pregunta2" value="" placeholder="Respuesta!" />
+			<input type="hidden" id="pregunta" name="pregunta" value="pregunta2">
+			<input type="submit" value="Enviar">
+		</div>
+	</form>
+</body>
+</html>
